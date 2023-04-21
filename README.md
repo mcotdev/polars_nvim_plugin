@@ -1,6 +1,8 @@
 # polars_nvim_plugin
 ## NeoVim Plugin for Polars
 
+Work in progress to build a NeoVim or Vim plugin for Polars
+
 Configure Neovim to use the plugin: Add your plugin's path to the rtp (runtimepath) in your Neovim configuration file (e.g., ~/.config/nvim/init.vim or ~/.vimrc). Replace `/path/to/polars_nvim_plugin` with the actual path to your plugin directory:
 
 `set rtp+=/path/to/polars_nvim_plugin`
